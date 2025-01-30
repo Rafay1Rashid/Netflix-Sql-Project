@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">genre</Data></Cell>
+			<Cell><Data ss:Type="String">total_content</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Dramas</Data></Cell>
+			<Cell><Data ss:Type="String">3356</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">International Movies</Data></Cell>
+			<Cell><Data ss:Type="String">2859</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comedies</Data></Cell>
+			<Cell><Data ss:Type="String">2250</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Documentaries</Data></Cell>
+			<Cell><Data ss:Type="String">1955</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">International TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">1557</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Action & Adventure</Data></Cell>
+			<Cell><Data ss:Type="String">1394</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Children & Family Movies</Data></Cell>
+			<Cell><Data ss:Type="String">1347</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kids' TV</Data></Cell>
+			<Cell><Data ss:Type="String">1025</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Stand-Up Comedy</Data></Cell>
+			<Cell><Data ss:Type="String">1011</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Dramas</Data></Cell>
+			<Cell><Data ss:Type="String">847</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Independent Movies</Data></Cell>
+			<Cell><Data ss:Type="String">769</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Comedies</Data></Cell>
+			<Cell><Data ss:Type="String">758</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Thrillers</Data></Cell>
+			<Cell><Data ss:Type="String">707</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Docuseries</Data></Cell>
+			<Cell><Data ss:Type="String">664</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Romantic Movies</Data></Cell>
+			<Cell><Data ss:Type="String">622</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Horror Movies</Data></Cell>
+			<Cell><Data ss:Type="String">602</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Crime TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">541</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Reality TV</Data></Cell>
+			<Cell><Data ss:Type="String">465</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Music & Musicals</Data></Cell>
+			<Cell><Data ss:Type="String">403</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Romantic TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">384</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Anime Series</Data></Cell>
+			<Cell><Data ss:Type="String">316</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">British TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">305</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sci-Fi & Fantasy</Data></Cell>
+			<Cell><Data ss:Type="String">257</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sports Movies</Data></Cell>
+			<Cell><Data ss:Type="String">221</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Action & Adventure</Data></Cell>
+			<Cell><Data ss:Type="String">184</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spanish-Language TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">176</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Movies</Data></Cell>
+			<Cell><Data ss:Type="String">171</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Korean TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">151</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Classic Movies</Data></Cell>
+			<Cell><Data ss:Type="String">140</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LGBTQ Movies</Data></Cell>
+			<Cell><Data ss:Type="String">103</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Mysteries</Data></Cell>
+			<Cell><Data ss:Type="String">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Stand-Up Comedy & Talk Shows</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Science & Nature TV</Data></Cell>
+			<Cell><Data ss:Type="String">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Anime Features</Data></Cell>
+			<Cell><Data ss:Type="String">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Sci-Fi & Fantasy</Data></Cell>
+			<Cell><Data ss:Type="String">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Horror</Data></Cell>
+			<Cell><Data ss:Type="String">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cult Movies</Data></Cell>
+			<Cell><Data ss:Type="String">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Teen TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Faith & Spirituality</Data></Cell>
+			<Cell><Data ss:Type="String">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Thrillers</Data></Cell>
+			<Cell><Data ss:Type="String">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TV Shows</Data></Cell>
+			<Cell><Data ss:Type="String">48</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Classic & Cult TV</Data></Cell>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
